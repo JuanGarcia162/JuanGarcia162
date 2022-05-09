@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Juan Diego</h1>
 <h3 align="center">Frontend Developer | HTML , CSS , Javascript , Angular. </h3>
-<h3align="center"> AR\VR Developer | UNITY , C# , Vuforia , ARCore. </h3>
+<h3 align="center"> AR\VR Developer | UNITY , C# , Vuforia , ARCore. </h3>
 
 - 💬 Pregúntame sobre: **Html, Css, Javascript, Angular, Unity & C#**
 
