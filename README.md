@@ -12,7 +12,6 @@
 - 👨‍💻 Todos mis proyectos disponibles en: [https://juangarcia162.github.io/Portafolio](https://juangarcia162.github.io/Portafolio)
 
 <br><br/>
-
 <img align='right' src="https://media.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif" width="220">
 
 ```javascript
