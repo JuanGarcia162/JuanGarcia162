@@ -2,10 +2,16 @@
 <h3 align="center">Frontend Developer | HTML , CSS , Javascript , Angular. </h3>
 <h3 align="center"> AR\VR Developer | UNITY , C# , Vuforia , ARCore. </h3>
 
-- 💬 Pregúntame sobre: **Html, Css, Javascript, Angular, Unity & C#**
-
 - 📫 Contáctame en: **juandiegogarcia162@gmail.com**
 - 👨‍💻 Todos mis proyectos disponibles en: [https://juangarcia162.github.io/Portafolio](https://juangarcia162.github.io/Portafolio)
+
+```javascript
+const juangarcia162 = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, C#],
+  tools: [Angular, Node, Unity, Vuforia, ARCore, Git]
+}
+```
 
 
 <h3 align="left">Conecta conmigo:</h3>
