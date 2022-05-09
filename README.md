@@ -19,7 +19,8 @@
 const juangarcia162 = {
   apodos: "GodFake" | "Juandi",
   lenguajes: [Javascript, Typescript, HTML, CSS, C# ],
-  herramientas: [Angular, Node, Unity, Vuforia, ARCore, Git]
+  herramientas: [Angular, Unity, Git]
+  SDKs: [Vuforia, ARCore]
 }
 ```
 <br><br/>
