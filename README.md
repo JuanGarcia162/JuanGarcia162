@@ -8,7 +8,7 @@
 ```javascript
 const juangarcia162 = {
   apodos: "GodFake" | "Juandi",
-  Lenguajes: [Javascript, Typescript, HTML, CSS, C#],
+  Lenguajes: [Javascript, Typescript, HTML, CSS, C# ],
   Herramientas: [Angular, Node, Unity, Vuforia, ARCore, Git]
 }
 ```
