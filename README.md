@@ -13,7 +13,7 @@
 
 <br><br/>
 
-<img align='right' src="https://media.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif" width="220">
 
 ```javascript
 const juangarcia162 = {
