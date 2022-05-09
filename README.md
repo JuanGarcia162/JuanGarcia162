@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Juan Diego</h1>
 <h3 align="center">Frontend Developer | HTML , CSS , Javascript , Angular; AR\VR Developer | UNITY , C# , Vuforia , ARCore.</h3>
 
-- 💬 Pregúntame sobre: **Html,Css,Javascript,Angular,Unity & C#**
+- 💬 Pregúntame sobre: **Html, Css, Javascript, Angular, Unity & C#**
 
 - 📫 Contáctame en: **juandiegogarcia162@gmail.com**
 
