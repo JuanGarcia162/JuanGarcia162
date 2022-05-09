@@ -1,18 +1,28 @@
-<h1 align="center">Hola 👋, Soy Juan Diego</h1>
-<h3 align="center">Frontend Developer | HTML , CSS , Javascript , Angular. </h3>
-<h3 align="center"> AR\VR Developer | UNITY , C# , Vuforia , ARCore. </h3>
+<p> 
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" align="left">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" align="right">
+</p>
+
+<h1 align="center">Hola 👋, Soy Juan Diego </h1>
+
+<h3 align="center">Frontend Developer | AR\VR Developer </h3> 
+<br><br/>
 
 - 📫 Contáctame en: **juandiegogarcia162@gmail.com**
 - 👨‍💻 Todos mis proyectos disponibles en: [https://juangarcia162.github.io/Portafolio](https://juangarcia162.github.io/Portafolio)
 
+<br><br/>
+
+<img align='right' src="https://media.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif" width="230">
+
 ```javascript
 const juangarcia162 = {
   apodos: "GodFake" | "Juandi",
-  Lenguajes: [Javascript, Typescript, HTML, CSS, C# ],
-  Herramientas: [Angular, Node, Unity, Vuforia, ARCore, Git]
+  lenguajes: [Javascript, Typescript, HTML, CSS, C# ],
+  herramientas: [Angular, Node, Unity, Vuforia, ARCore, Git]
 }
 ```
-
+<br><br/>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
