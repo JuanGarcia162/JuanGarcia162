@@ -5,7 +5,7 @@
 
 <h1 align="center">Hola 👋, Soy Juan Diego </h1>
 
-<h3 align="center">Frontend Developer | AR\VR Developer </h3> 
+<h3 align="center">Backend Developer | AR\VR Developer </h3> 
 <br><br/>
 
 - 📫 Contáctame en: **juandiegogarcia162@gmail.com**
