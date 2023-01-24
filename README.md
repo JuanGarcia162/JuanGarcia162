@@ -16,8 +16,8 @@
 
 ```javascript
 const juangarcia162 = {
-  apodos: "GodFake" | "Juandi",
-  lenguajes: [Javascript, Typescript, HTML, CSS, C# ],
+  apodos: "isJuanDev" | "GodFake",
+  lenguajes: [Javascript, Typescript, C#, Java ],
   herramientas: [Angular, Unity, Git]
   SDKs: [Vuforia, ARCore]
 }
